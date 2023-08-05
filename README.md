@@ -2,7 +2,7 @@
 conda create --prefix C:\Users\ASUS\Documents\pythonenv\scrap_bmp_env python=3.9 --no-default-packages
 
 # To activate this environment, use cmd prompt     
-conda activate G:\myrepos\python-scrap-bmp\myenv
+conda activate G:\myvenv\scrap_bmp
 conda activate C:\Users\ASUS\Documents\pythonenv\scrap_bmp_env
 
 # To deactivate an active environment, use
