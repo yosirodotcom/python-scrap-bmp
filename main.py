@@ -28,7 +28,8 @@ def scrollDown(long, x, y):
 
     gui.leftClick(x=x, y=y, duration=0.05)
     for i in range(long):
-        gui.scroll(-50)
+        print(f"scroll tick-{i}")
+        gui.scroll(-10)
 
     end_time = time.time()  # Waktu setelah eksekusi
 
@@ -39,6 +40,7 @@ class ImageToPDFConverter(QWidget):
     def __init__(self):
         super().__init__()
         self.list_bmp = [
+            "PAJA321002,Pengantar Ilmu Administrasi",
             "ADBI4531,Teori Pembuatan Keputusan",
             "ADPU444203,Sistem Informasi Manajemen (Edisi 3)",
             "IEEKMA4116,Management",
@@ -112,6 +114,7 @@ class ImageToPDFConverter(QWidget):
         # Create a combo box for BMP selection
         self.combo_bmp = QComboBox()
         list_bmp = [
+            "PAJA321002,Pengantar Ilmu Administrasi",
             "ADBI4531,Teori Pembuatan Keputusan",
             "ADPU444203,Sistem Informasi Manajemen (Edisi 3)",
             "IEEKMA4116,Management",
@@ -177,7 +180,7 @@ class ImageToPDFConverter(QWidget):
 
         # Create a combo box for Modul selection
         self.combo_modul = QComboBox()
-        self.combo_modul.addItems([str(i) for i in range(1, 11)])
+        self.combo_modul.addItems([str(i) for i in range(1, 13)])
 
         self.convert_button = QPushButton("Convert")
         # Connect the button to the run_script method without passing any argument
@@ -309,7 +312,7 @@ def main(bmp, modul):
     )
     modul1_link.click()
 
-    time.sleep(5)
+    time.sleep(10)
 
     # Tunggu sampai elemen dengan XPath "//img[@title='Single Page']" muncul, lalu klik
     single_page_button = WebDriverWait(driver, 10).until(
@@ -359,7 +362,7 @@ def main(bmp, modul):
     center_x = rect["x"] + rect["width"] / 2
     center_y = rect["y"] + rect["height"] / 2
 
-    scrollDown(long=(30 * hal_terakhir), x=center_x, y=center_y)
+    scrollDown(long=(135 * hal_terakhir), x=center_x, y=center_y)
 
     print("Looping untuk mendownload gambar")
     for i in range(1, hal_terakhir + 1):  # Ganti 5 dengan jumlah halaman + 1
