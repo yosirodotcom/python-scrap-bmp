@@ -89,7 +89,7 @@ class ImageToPDFConverter(QWidget):
             "SATS442102,Metode Statistika Multivariat (Edisi 2)",
             "SATS4422,Metode Sekuensial",
             "SATS4423,Analisis Runtun Waktu",
-            "MSIM431202,Metodelogi Penelitian (Edisi 2)",
+            "MSIM4312,Metodelogi Penelitian (Edisi 2)",
             "STAT4215,Statistika Pengawasan Kualitas",
             "STAT4231,Pengumpulan dan Penyajian Data",
             "STAT4331,Asuransi I",
