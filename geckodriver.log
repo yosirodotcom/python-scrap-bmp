@@ -178,3 +178,100 @@ JavaScript warning: https://pustaka.ut.ac.id/reader/js/jquery.min.js, line 2: Us
 1705649268952	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 1705650380177	Marionette	INFO	Stopped listening on port 56122
 Dynamically enable window occlusion 1
+1705889688616	geckodriver	INFO	Listening on 127.0.0.1:62131
+1705889691666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62132" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofilevVUEnX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705889692602	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1705889692723	Marionette	INFO	Listening on port 62140
+WebDriver BiDi listening on ws://127.0.0.1:62132
+Read port: 62140
+1705889693048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62132/devtools/browser/c2e8796a-510c-4c5f-a98e-58265bef3279
+JavaScript warning: https://pustaka.ut.ac.id/reader/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pustaka.ut.ac.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pustaka.ut.ac.id."
+JavaScript warning: https://pustaka.ut.ac.id/reader/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pustaka.ut.ac.id/reader/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1705889722629	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1705890435603	Marionette	INFO	Stopped listening on port 62140
+Dynamically enable window occlusion 1
+1705993646701	geckodriver	INFO	Listening on 127.0.0.1:57682
+1705993649757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57683" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile7BvXzN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705993650751	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1705993650877	Marionette	INFO	Listening on port 57691
+WebDriver BiDi listening on ws://127.0.0.1:57683
+Read port: 57691
+1705993651220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57683/devtools/browser/c21eb13d-adde-423b-b832-dbbb8ac05ffe
+JavaScript warning: https://pustaka.ut.ac.id/reader/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pustaka.ut.ac.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pustaka.ut.ac.id."
+JavaScript warning: https://pustaka.ut.ac.id/reader/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pustaka.ut.ac.id/reader/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-R2XT9XL662&l=dataLayer&cx=c, line 315: Script terminated by timeout at:
+wn@https://www.googletagmanager.com/gtag/js?id=G-R2XT9XL662&l=dataLayer&cx=c:315:554
+WF@https://www.googletagmanager.com/gtag/js?id=G-R2XT9XL662&l=dataLayer&cx=c:496:697
+aa.Rm@https://www.googletagmanager.com/gtag/js?id=G-R2XT9XL662&l=dataLayer&cx=c:499:186
+aa.Qm/</<@https://www.googletagmanager.com/gtag/js?id=G-R2XT9XL662&l=dataLayer&cx=c:499:118
+Kj@https://www.googletagmanager.com/gtag/js?id=G-R2XT9XL662&l=dataLayer&cx=c:266:137
+Xj@https://www.googletagmanager.com/gtag/js?id=G-R2XT9XL662&l=dataLayer&cx=c:269:350
+aa.Qm/<@https://www.googletagmanager.com/gtag/js?id=G-R2XT9XL662&l=dataLayer&cx=c:499:104
+c@https://www.googletagmanager.com/gtag/js?id=G-R2XT9XL662&l=dataLayer&cx=c:370:169
+es@https://www.googletagmanager.com/gtag/js?id=G-R2XT9XL662&l=dataLayer&cx=c:371:269
+aa.Qm@https://www.googletagmanager.com/gtag/js?id=G-R2XT9XL662&l=dataLayer&cx=c:499:90
+c@https://www.googletagmanager.com/gtag/js?id=G-R2XT9XL662&l=dataLayer&cx=c:518:678
+dm@https://www.googletagmanager.com/gtag/js?id=G-R2XT9XL662&l=dataLayer&cx=c:289:298
+cm.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-R2XT9XL662&l=dataLayer&cx=c:292:266
+cm.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-R2XT9XL662&l=dataLayer&cx=c:290:207
+Wl@https://www.googletagmanager.com/gtag/js?id=G-R2XT9XL662&l=dataLayer&cx=c:287:633
+nG/<@https://www.googletagmanager.com/gtag/js?id=G-R2XT9XL662&l=dataLayer&cx=c:519:178
+aa.Pk/<@https://www.googletagmanager.com/gtag/js?id=G-R2XT9XL662&l=dataLayer&cx=c:469:126
+aa.Pk/c/<@https://www.googletagmanager.com/gtag/js?id=G-R2XT9XL662&l=dataLayer&cx=c:468:420
+
+1705993668747	Marionette	INFO	Stopped listening on port 57691
+Dynamically enable window occlusion 1
+1705993674251	geckodriver	INFO	Listening on 127.0.0.1:57739
+1705993677268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57740" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile4JzlaY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1705993677904	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1705993678006	Marionette	INFO	Listening on port 57747
+WebDriver BiDi listening on ws://127.0.0.1:57740
+Read port: 57747
+1705993678278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57740/devtools/browser/55002f0b-af40-4925-96d7-3f50ddd10467
+JavaScript warning: https://pustaka.ut.ac.id/reader/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pustaka.ut.ac.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pustaka.ut.ac.id."
+JavaScript warning: https://pustaka.ut.ac.id/reader/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pustaka.ut.ac.id/reader/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1705993710179	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1705994247009	Marionette	INFO	Stopped listening on port 57747
+Dynamically enable window occlusion 1
+1706520645479	geckodriver	INFO	Listening on 127.0.0.1:52323
+1706520648524	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52324" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile3R7qcN"
+1706520704007	geckodriver	INFO	Listening on 127.0.0.1:52374
+1706520707069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52375" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileY7T5NC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706520707618	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1706520707716	Marionette	INFO	Listening on port 52383
+Read port: 52383
+WebDriver BiDi listening on ws://127.0.0.1:52375
+1706520707957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52375/devtools/browser/8ace4b98-e614-4691-8f84-2f5c01e30abb
+JavaScript warning: https://pustaka.ut.ac.id/reader/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pustaka.ut.ac.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pustaka.ut.ac.id."
+JavaScript warning: https://pustaka.ut.ac.id/reader/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pustaka.ut.ac.id/reader/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1706520737677	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1706521433606	Marionette	INFO	Stopped listening on port 52383
+Dynamically enable window occlusion 1
