@@ -275,3 +275,100 @@ JavaScript warning: https://pustaka.ut.ac.id/reader/js/jquery.min.js, line 2: Us
 1706520737677	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 1706521433606	Marionette	INFO	Stopped listening on port 52383
 Dynamically enable window occlusion 1
+1706590819664	geckodriver	INFO	Listening on 127.0.0.1:61316
+1706590822712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61317" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileIguzMj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706590823588	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1706590823702	Marionette	INFO	Listening on port 61326
+WebDriver BiDi listening on ws://127.0.0.1:61317
+Read port: 61326
+1706590823981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61317/devtools/browser/d5e5aabc-f446-4d57-a6ca-ac0d48bd0d8e
+JavaScript warning: https://pustaka.ut.ac.id/reader/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pustaka.ut.ac.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pustaka.ut.ac.id."
+JavaScript warning: https://pustaka.ut.ac.id/reader/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pustaka.ut.ac.id/reader/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: TypeError: r is undefined
+1706590854170	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1706591737062	Marionette	INFO	Stopped listening on port 61326
+Dynamically enable window occlusion 1
+1706592544123	geckodriver	INFO	Listening on 127.0.0.1:61673
+1706592547177	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61674" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofileIuSL0S"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706592547644	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1706592547753	Marionette	INFO	Listening on port 61681
+WebDriver BiDi listening on ws://127.0.0.1:61674
+Read port: 61681
+1706592548093	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61674/devtools/browser/0b925d82-ec25-49cf-90f6-ae86a481afa9
+JavaScript warning: https://pustaka.ut.ac.id/reader/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pustaka.ut.ac.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pustaka.ut.ac.id."
+JavaScript warning: https://pustaka.ut.ac.id/reader/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pustaka.ut.ac.id/reader/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1706592577899	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=7)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=8)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading JSON file (error). Please check your configuration.
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=9)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=10)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=11)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=12)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=13)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=14)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading JSON file (error). Please check your configuration.
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=15)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=18)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=17)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=21)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=16)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=24)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading JSON file (error). Please check your configuration.
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=31)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=26)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=29)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=32)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=23)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=34)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading JSON file (error). Please check your configuration.
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=35)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=37)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=28)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=20)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=30)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=39)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading JSON file (error). Please check your configuration.
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=19)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=40)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=44)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=27)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=53)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading image (https://pustaka.ut.ac.id/reader/services/view.php?doc=M2&format=jpg&subfolder=IEEKMA4116/&page=33)
+JavaScript error: https://pustaka.ut.ac.id/reader/js/jquery.min.js line 3 > eval, line 1: Error: Error loading JSON file (error). Please check your configuration.
+1706596715085	Marionette	INFO	Stopped listening on port 61681
+Dynamically enable window occlusion 1
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 178))
+1706596746752	geckodriver	INFO	Listening on 127.0.0.1:62339
+1706596749806	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62340" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile20l8hN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706596750322	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1706596750437	Marionette	INFO	Listening on port 62349
+WebDriver BiDi listening on ws://127.0.0.1:62340
+Read port: 62349
+1706596751000	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62340/devtools/browser/943e55e1-a4b7-4dc1-be94-c5dde6b41063
+JavaScript warning: https://pustaka.ut.ac.id/reader/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pustaka.ut.ac.id."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pustaka.ut.ac.id."
+JavaScript warning: https://pustaka.ut.ac.id/reader/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pustaka.ut.ac.id/reader/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1706596780542	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1706597738258	Marionette	INFO	Stopped listening on port 62349
+Dynamically enable window occlusion 1
