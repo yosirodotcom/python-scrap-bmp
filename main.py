@@ -2,6 +2,9 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException
+from selenium.webdriver.firefox.service import Service as FirefoxService
+from webdriver_manager.firefox import GeckoDriverManager
 import requests
 import os
 import time
@@ -40,6 +43,7 @@ class ImageToPDFConverter(QWidget):
     def __init__(self):
         super().__init__()
         self.list_bmp = [
+            "IDIK401303, Karil",
             "PAJA321002,Pengantar Ilmu Administrasi",
             "ADBI4531,Teori Pembuatan Keputusan",
             "ADPU444203,Sistem Informasi Manajemen (Edisi 3)",
@@ -114,6 +118,7 @@ class ImageToPDFConverter(QWidget):
         # Create a combo box for BMP selection
         self.combo_bmp = QComboBox()
         list_bmp = [
+            "IDIK401303, Karil",
             "PAJA321002,Pengantar Ilmu Administrasi",
             "ADBI4531,Teori Pembuatan Keputusan",
             "ADPU444203,Sistem Informasi Manajemen (Edisi 3)",
@@ -253,7 +258,8 @@ def main(bmp, modul):
 
     # For Mozilla:
     options = webdriver.FirefoxOptions()
-    driver = webdriver.Firefox(options=options)
+    driver = webdriver.Firefox(service=FirefoxService(GeckoDriverManager().install()))
+    # driver = webdriver.Firefox(options=options)
 
     print("Buka halaman login")
     driver.get(f"https://pustaka.ut.ac.id/reader/index.php?modul={bmp}")
