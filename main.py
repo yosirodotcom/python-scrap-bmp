@@ -211,6 +211,7 @@ class ImageToPDFConverter(QWidget):
             for item in self.list_bmp:
                 if item.endswith(bmp_description):
                     bmp_code = item.split(",")[0]
+                    bmp_name = item.split(",")[1]
                     break
 
             if bmp_code is None:
@@ -218,7 +219,7 @@ class ImageToPDFConverter(QWidget):
                 return
 
             modul = self.combo_modul.currentText()
-            main(bmp_code, int(modul))
+            main(bmp_code, bmp_name, int(modul))
             self.status_label.setText("Conversion completed!")
         except Exception as e:
             # Print the error to the output console
@@ -236,11 +237,13 @@ def exception_hook(exctype, value, traceback):
 sys.excepthook = exception_hook
 
 
-def main(bmp, modul):
+def main(bmp, bmp_name, modul):
     print("Buat folder untuk menyimpan gambar jika belum ada")
     folder_images = os.path.join("data", "images")
-    folder_pdf = os.path.join("data", "modul")
-
+    folder_pdf = os.path.join("data", "modul", bmp_name)
+    # module_name = bmp.split(",")[1].strip()  # new
+    # folder_pdf = os.path.join(folder_pdf, module_name)  # new
+    os.makedirs(folder_pdf, exist_ok=True)  # new
     if not os.path.exists(folder_images):
         os.makedirs(folder_images)
     else:
