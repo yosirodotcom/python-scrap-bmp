@@ -185,7 +185,7 @@ class ImageToPDFConverter(QWidget):
 
         # Create a combo box for Modul selection
         self.combo_modul = QComboBox()
-        self.combo_modul.addItems([str(i) for i in range(1, 13)])
+        self.combo_modul.addItems([str(i) for i in range(1, 15)])
 
         self.convert_button = QPushButton("Convert")
         # Connect the button to the run_script method without passing any argument
@@ -440,3 +440,4 @@ if __name__ == "__main__":
     window = ImageToPDFConverter()
     window.show()
     sys.exit(app.exec_())
+    
