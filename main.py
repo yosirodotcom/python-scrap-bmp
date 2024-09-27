@@ -371,7 +371,19 @@ def main(bmp, bmp_name, modul):
     center_x = rect["x"] + rect["width"] / 2
     center_y = rect["y"] + rect["height"] / 2
 
-    scrollDown(long=(135 * hal_terakhir), x=center_x, y=center_y)
+    # scrollDown(long=(135 * hal_terakhir), x=center_x, y=center_y) ##################
+    print("Create countdown")
+
+    def countdown(t):
+        while t:
+            print(t)
+            time.sleep(1)  # Wait for 1 second before the next iteration
+            t -= 1
+        print('Time\'s up!')
+
+    print("Executing countdown")
+    countdown(200)  # Start countdown for 200 seconds
+    # time.sleep(200) #####################
 
     print("Looping untuk mendownload gambar")
     for i in range(1, hal_terakhir + 1):  # Ganti 5 dengan jumlah halaman + 1
